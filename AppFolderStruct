@@ -1,0 +1,5 @@
+RoomDetector/
+├── .gitignore          # Tells GitHub which files to ignore
+├── README.md           # The documentation (most important!)
+├── requirements.txt    # List of libraries to install
+└── main.py             # Your Python code
